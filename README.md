@@ -6,6 +6,8 @@ Papers are posted as preprints. Not yet peer reviewed. If a journal wants to pub
 
 Markdown files are in the root. Docx files are in `/docx` if you want to download them.
 
+Summarized plain language versions posted along with markdown papers.
+
 ---
 
 ## What this is
