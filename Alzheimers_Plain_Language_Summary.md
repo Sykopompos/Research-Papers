@@ -72,7 +72,7 @@ Researchers are also investigating whether simple smell tests might detect the e
 
 **Currently approved:**
 
-- **Lecanemab (Leqembi)** and **donanemab (Kisunla)** — antibodies that clear amyloid from the brain. They slow cognitive decline by approximately 27–35% in early-stage patients. They don't stop the disease, but they meaningfully slow it. They work by targeting the most toxic early forms of amyloid before they form plaques.
+- **Lecanemab (Leqembi)** and **donanemab (Kisunla)** — antibodies that clear amyloid from the brain. They slow cognitive decline by approximately 27% (lecanemab) and up to 35% in lower tau-burden patient subgroups (donanemab, ~23% in the overall trial population). They don't stop the disease, but they meaningfully slow it. They work by targeting the most toxic early forms of amyloid before they form plaques.
 - **Cholinesterase inhibitors** (donepezil, rivastigmine) — older drugs that compensate for neurotransmitter depletion. Symptom management only, no effect on disease progression.
 
 **In development:**

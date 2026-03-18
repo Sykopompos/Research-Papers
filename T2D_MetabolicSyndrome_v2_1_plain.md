@@ -97,7 +97,7 @@ Every cell in your body runs on a roughly 24-hour clock. Your pancreas has its o
 
 ## The Disease Is More Reversible Than You've Been Told
 
-A major clinical trial (DiRECT) showed that 46% of people with Type 2 diabetes went into complete remission — no diabetes at all — through dietary weight management. Not just "better controlled." Gone. A five-year follow-up showed some people maintained this.
+A major clinical trial (DiRECT) showed that 46% of people with Type 2 diabetes went into complete remission — no diabetes at all — through dietary weight management. Not just "better controlled." Gone. A five-year follow-up showed 13% of participants maintained full remission — a meaningful minority, but proof that remission is durable for some people without ongoing intensive intervention.
 
 The reason: **the ectopic fat that was causing the problem can be removed.** When you lose fat from your liver and pancreas (not just from under your skin), the insulin lock starts working again. Liver fat can normalise within about a week of aggressive caloric restriction — it's the fastest-responding part of the body. Pancreatic fat takes longer.
 

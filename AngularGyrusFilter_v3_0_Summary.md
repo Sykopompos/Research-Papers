@@ -63,18 +63,19 @@ Giftedness, on this account, is a difference in *where FQ3 fires* — at what le
 
 ---
 
-## The four tiers
+## The tiers
 
-The paper organizes gifted cognition into four operating layers. These are heuristic descriptions, not hard categories — IQ ranges are rough population anchors only, not architecture-derived thresholds.
+The paper organizes gifted cognition into operating layers defined by the abstraction level at which Detection fires. These are heuristic descriptions, not hard categories — IQ ranges are rough population anchors only, not architecture-derived thresholds.
 
 | Tier | Detection layer | What this looks like | Approximate IQ anchor |
 |---|---|---|---|
 | **1 — Bright** | Content layer | Faster retrieval, better recall, wider knowledge | ~115–129 |
-| **2 — Gifted** | Structural layer | Cross-domain pattern recognition, "sees connections" | ~130–144 |
-| **3 — Highly Gifted** | Ontological layer | Detects framework assumptions, questions categories themselves | ~145–159 |
-| **4 — Profound** | Meta-ontological layer | Detects structural redundancy across entire intellectual fields | ~160+ |
+| **2 — Gifted** | Content layer | Cross-domain pattern recognition, "sees connections" at content level | ~130–144 |
+| **3 — Highly Gifted** | Argument layer | Detects shared reasoning structures across domains; argument form transfers, not just content. The serialization wall lives here — detection runs faster than the verbal output pathway can transmit results | ~145–159 |
+| **4 — Profoundly Gifted** | Structural layer | Detects that entire domains share the same underlying architecture, before content is engaged; rapid acquisition of structurally adjacent fields | ~160–174 |
+| **5 — Profound** | Ontological layer | Detects structural redundancy across entire intellectual fields; questions the categories themselves | ~175+ |
 
-The tier boundaries are not fixed and the same individual operates at different levels in different domains. What matters is *at what abstraction layer detection fires on genuinely novel problems in the individual's densest domain*.
+The tier boundaries are not fixed and the same individual operates at different altitudes in different domains simultaneously. Altitude rises as the template library fills in each domain. What matters is *at what abstraction layer detection fires on genuinely novel problems in the individual's densest domain*.
 
 ---
 
