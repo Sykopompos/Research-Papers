@@ -4,9 +4,9 @@ Independent research papers applying a cross-system analytical framework to unso
 
 Papers are posted as preprints. Not yet peer reviewed. If a journal wants to publish any of them, changes can be made at that point.
 
-Markdown files are in the root. Docx files are in `/docx` if you want to download them.
+Markdown files are in /papers, these can be easily read here on github. Docx files are in `/docx` if you want to download them, just click view raw.
 
-Summarized plain language versions posted along with markdown papers.
+Summarized plain language versions are in the root folder.
 
 ---
 
