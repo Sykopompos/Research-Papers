@@ -5,6 +5,7 @@
 *Version 3.0 · March 2026 · Preprint · Not yet peer reviewed*
 
 **Author:** M. Finnegan
+
 **Repository:** [github.com/Sykopompos/Research-Papers](https://github.com/Sykopompos/Research-Papers)
 
 ---
