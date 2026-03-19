@@ -1,0 +1,25 @@
+# What This Paper Argues: Tourette Syndrome as Gate Failure
+### Plain language summary of *Tourette Syndrome: Gate Failure, the Premonitory Urge, and the Neurochemical Architecture of Tic Disorders* (v2.13)
+
+**M. Finnegan · March 2026**  
+[github.com/Sykopompos/Research-Papers](https://github.com/Sykopompos/Research-Papers)
+
+---
+
+The central argument is that Tourette syndrome is a gate failure — not a catch-all label for a puzzling condition, but a specific and mechanistically traceable failure of the brain's movement-filtering system. The paper builds that case across neurochemistry, behavioral treatment, hormones, sleep, immune function, and co-occurring conditions, and argues that once you understand the gate, almost everything else about TS follows from it.
+
+**The gate and what failing it means.** The brain generates far more movement signals than it ever executes. The basal ganglia act as a filter — a continuously competing Go/NoGo system that determines which movements happen and which get blocked. In TS, the NoGo side of that filter is too weak in specific circuits, and certain movements escape. Those are tics. This isn't new — the basic dopaminergic circuit account has been established for decades. What this paper does is use that architecture as a unified lens and show that it explains things TS research has tended to treat as separate puzzles.
+
+**The premonitory urge gets a mechanistic account, not just a description.** Most people with TS feel an uncomfortable sensation — localized to the body part about to tic — before the tic fires. This is widely acknowledged but rarely explained. The paper argues it's not a side effect or a psychological precursor. It's the brain's interoceptive detection of a motor signal that has already escaped the gate and is propagating toward execution. The insula — the brain's body-sensing region — is registering a prediction error: a movement the brain didn't authorize is in the pipeline. The tic resolves the urge, which is why tic suppression accumulates cost and why tics return in bursts when suppression is released. That framing has direct implications: the target for intervention isn't the tic, it's the escaped signal driving the urge.
+
+**CBIT works because of the biology, not in spite of it.** Comprehensive Behavioral Intervention for Tics teaches patients to notice the urge early and deploy a competing movement. The paper argues this is precisely calibrated to the gate-failure account — it intercepts the escaped motor signal at the detection stage, before tic execution, and trains the circuit responsible for deploying top-down suppression. Brain imaging evidence suggests it produces measurable changes in inhibitory control circuitry, not just behavioral adaptation. The gate-failure model predicts this; a generic behavioral account of tics doesn't.
+
+**Three connections the paper highlights that haven't been assembled before.** First, deep brain stimulation of the centromedian thalamus and D2-blocking antipsychotics appear to be hitting the same circuit node from opposite directions — one by increasing dopamine precision through surviving interneurons, one by dampening excess dopamine signaling. Both reduce tics; the paper proposes a single mechanism that makes both results coherent. Second, a 2025 single-cell genomics study found that all three major interneuron populations are depleted in severe adult-persistent TS — simultaneously — and that this is coupled with metabolic stress in medium spiny neurons and microglial inflammatory activation. These are not independent pathologies; the paper argues they are interacting elements of the same process, with implications for why anti-inflammatory approaches may matter in severe disease. Third, the immune profile documented in TS — regulatory T cell deficiency, chronic pro-inflammatory cytokines, a genetic signal in a lymphoma-associated gene — parallels the profile of autoimmune conditions where non-Hodgkin lymphoma risk is formally elevated. No epidemiological study has looked at this. The paper proposes it as a testable hypothesis.
+
+**The co-occurring conditions are not coincidences.** OCD affects roughly 60% of people with TS; ADHD affects 50–60%. The paper's position is that this isn't comorbidity in the usual sense — it's the same gate architecture expressing across overlapping circuits. OCD involves the same type of failure in cognitive circuits; thoughts escape gating the same way tics escape motor gating. ADHD involves a weakened prefrontal control system — the compensatory mechanism that would normally override a failing gate. When all three are present, the gate fails and the compensator is impaired simultaneously, which is why the combination is disproportionately severe.
+
+---
+
+*This is a perspective paper — a mechanistic synthesis of the research literature. It is not a clinical guideline. For medical decisions about TS, consult a qualified specialist.*
+
+*Full paper: [github.com/Sykopompos/Research-Papers](https://github.com/Sykopompos/Research-Papers)*
